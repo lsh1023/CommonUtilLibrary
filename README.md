@@ -12,7 +12,7 @@
     remove  : 移除某个key值已经对应的值
     clear   : 清除所有数据
     contains: 查询某个key是否已经存在
-    getAll  : 返回所有的键值对<br>
+    getAll  : 返回所有的键值对
 ## 提供App数据清理工作的类 → [AppCleanMgr](https://github.com/AbrahamCaiJin/CommonUtilLibrary/blob/master/CommonUtil/src/main/java/com/jingewenku/abrahamcaijin/commonutil/AppCleanMgr.java)
     cleanInternalCache   ： 清除本应用内部缓存数据
     cleanExternalCache   ： 清除本应用外部缓存数据
