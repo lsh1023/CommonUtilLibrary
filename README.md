@@ -61,7 +61,7 @@
     json: 输出Json的格式字符串
     xml : 输出xml的格式字符串
     file: 保存到文件
-###### 更多使用方法信息点击这里查看：[KLog](http://kaizige.vip/2016/06/13/klog/)
+###### 更多使用方法信息点击这里查看凯子哥：[KLog](http://kaizige.vip/2016/06/13/klog/)
 ## App网络管理 → [AppNetworkMgr](https://github.com/AbrahamCaiJin/CommonUtilLibrary/blob/master/CommonUtil/src/main/java/com/jingewenku/abrahamcaijin/commonutil/AppNetworkMgr.java)
     getNetworkState   : 获取当前手机连接的网络类型
     isNetworkConnected: 判断网络是否连接
@@ -411,7 +411,7 @@
     localImg               : 缩略图预览(仅支持本地图片,并且是JPEG图片格式)
     loadImage              : 请求图片
     getImageDecodeOptions  : 图片解码
-## 图片管理工具类 → [AppImageMgr]()
+## 图片管理工具类 → [AppImageMgr](https://github.com/AbrahamCaiJin/CommonUtilLibrary/blob/master/CommonUtil/src/main/java/com/jingewenku/abrahamcaijin/commonutil/AppImageMgr.java)
     getBitmap                  : 根据drawable id获取Bitmap
     getDrawable                : 根据drawable id获取Drawable
     bitmapToDrawble            : bitmap转drawable
